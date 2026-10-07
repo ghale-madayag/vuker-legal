@@ -1,12 +1,14 @@
-# Admin Fee, Refund, Booking and Cancellation Policy
+# Admin Fee, Service Fee, Cancellation and Refund Policy
 
-Last updated: **6 October 2026** · Effective: **6 October 2026**
+**Version 1 s. 7 October 2026**
+
+Last updated: **7 October 2026** · Effective: **7 October 2026**
 
 Applies to bookings made on or after the effective date; earlier bookings keep the terms they were made under. Part of the [Vuker Terms and Conditions](./terms).
 
 ## 1. Vuker Admin Fee
 
-Vuker shall charge an Admin Fee equivalent to 7% of the total deposit amount paid by the Client for every successful booking or completed transaction processed through the Vuker platform.
+Vuker shall charge an Admin Fee equivalent to 7% of the total deposit amount paid by the Client for every successful booking or completed transaction processed through the Vuker app.
 
 ## 2. Service Provider Payment
 
@@ -36,13 +38,17 @@ The Cancellation Button shall automatically be disabled once the scheduled servi
 
 If the Service Provider is unable to fulfil the confirmed booking due to an emergency or other valid reason within 24 hours before the scheduled service date, the Service Provider shall make reasonable efforts to find a qualified replacement who can provide the same or substantially similar services at the same or comparable rate. Vuker may notify qualified Service Providers within the relevant area of the available booking slot. Once a suitable replacement accepts the booking, Vuker shall notify the Client and provide the details of the replacement Service Provider for confirmation.
 
-## 9. Service Provider No-Show or Failure to Fulfill the Booking
+## 9. Service Provider No-Show or Failure to Fulfil the Booking
 
 If the Service Provider fails to fulfil the confirmed booking or commits a "No-Show" on the scheduled service date without a valid or justified reason, Vuker may temporarily suspend the Service Provider's account pending investigation and review. A penalty equivalent to 7% of the total deposit amount shall be deducted from the Service Provider's V-Wallet. The Client shall be entitled to a full refund of the deposit amount paid for the affected booking, subject to Vuker's verification of the incident.
 
 ## 10. Unpaid or Unconfirmed Deposits
 
 A booking that has not received the required deposit payment within 48 hours from the time the booking is made or payment is requested shall automatically be considered forfeited and cancelled, unless otherwise approved or extended by Vuker.
+
+## 11. Refund Processing
+
+All refund requests shall be reviewed and processed by Vuker within 24 hours upon receipt of the request, subject to verification and compliance with the applicable Vuker App Terms and Conditions, cancellation policies, and refund eligibility requirements. The actual time for the refunded amount to be credited to the Client's account or original payment method may vary depending on the applicable payment provider or financial institution.
 
 ## How the tiers are counted
 

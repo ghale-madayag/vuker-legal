@@ -2,7 +2,7 @@
 
 Last updated: **6 October 2026** · Effective: **6 October 2026**
 
-See also the [Admin Fee, Refund, Booking and Cancellation Policy](./refund-and-cancellation-policy), which forms part of these Terms.
+See also the [Admin Fee, Service Fee, Cancellation and Refund Policy](./refund-and-cancellation-policy), which forms part of these Terms.
 
 ## About Vuker
 
